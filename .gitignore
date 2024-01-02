@@ -1,0 +1,13 @@
+#Ignore macOS specific files
+.DS_Store
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore build and install directories created by ROS2
+build/
+install/
+
+# Ignore log files
+log/
+
